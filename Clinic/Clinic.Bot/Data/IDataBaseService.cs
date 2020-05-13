@@ -1,5 +1,4 @@
-﻿using Clinic.Bot.Common.Models.Conversation;
-using Clinic.Bot.Common.Models.MedicalAppointment;
+﻿using Clinic.Bot.Common.Models.MedicalAppointment;
 using Clinic.Bot.Common.Models.Qualification;
 using Clinic.Bot.Common.Models.User;
 using Microsoft.EntityFrameworkCore;
@@ -12,7 +11,6 @@ namespace Clinic.Bot.Data
         DbSet<UserModel> User { get; set; }
         DbSet<QualificationModel> Qualification { get; set; }
         DbSet<MedicalAppointmentModel> MedicalAppointment { get; set; }
-        //DbSet<ConversationModel> Conversation { get; set; }
         Task<bool> SaveAsync();
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YUDNER\\Source\\Repos\\CursoCompletoBotFrameworkV4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj": {}
+    "D:\\GitHub\\FullCourseBotFramewor-v4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YUDNER\\Source\\Repos\\CursoCompletoBotFrameworkV4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj": {
+    "D:\\GitHub\\FullCourseBotFramewor-v4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YUDNER\\Source\\Repos\\CursoCompletoBotFrameworkV4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj",
+        "projectUniqueName": "D:\\GitHub\\FullCourseBotFramewor-v4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj",
         "projectName": "Clinic.Bot",
-        "projectPath": "C:\\Users\\YUDNER\\Source\\Repos\\CursoCompletoBotFrameworkV4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj",
+        "projectPath": "D:\\GitHub\\FullCourseBotFramewor-v4\\Clinic\\Clinic.Bot\\Clinic.Bot.csproj",
         "packagesPath": "C:\\Users\\YUDNER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YUDNER\\Source\\Repos\\CursoCompletoBotFrameworkV4\\Clinic\\Clinic.Bot\\obj\\",
+        "outputPath": "D:\\GitHub\\FullCourseBotFramewor-v4\\Clinic\\Clinic.Bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

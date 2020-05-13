@@ -1,5 +1,4 @@
-﻿using Clinic.Bot.Common.Models.Conversation;
-using Clinic.Bot.Common.Models.MedicalAppointment;
+﻿using Clinic.Bot.Common.Models.MedicalAppointment;
 using Clinic.Bot.Common.Models.Qualification;
 using Clinic.Bot.Common.Models.User;
 using Microsoft.EntityFrameworkCore;
@@ -26,7 +25,6 @@ namespace Clinic.Bot.Data
         public DbSet<UserModel> User { get; set; }
         public DbSet<QualificationModel> Qualification { get; set; }
         public DbSet<MedicalAppointmentModel> MedicalAppointment { get; set; }
-        //public DbSet<ConversationModel> Conversation { get; set; }
 
         public async Task<bool> SaveAsync()
         {
@@ -38,7 +36,6 @@ namespace Clinic.Bot.Data
             modelBuilder.Entity<UserModel>().ToContainer("User").HasPartitionKey("channel").HasNoDiscriminator().HasKey("id");
             modelBuilder.Entity<QualificationModel>().ToContainer("Qualification").HasPartitionKey("idUser").HasNoDiscriminator().HasKey("id");
             modelBuilder.Entity<MedicalAppointmentModel>().ToContainer("MedicalAppointment").HasPartitionKey("idUser").HasNoDiscriminator().HasKey("id");
-            //modelBuilder.Entity<ConversationModel>().ToContainer("Conversation").HasPartitionKey("idUser").HasNoDiscriminator().HasKey("id");
         }
     }
 }

@@ -1,7 +1,6 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
-using Clinic.Bot.Common.Models.Conversation;
 using Clinic.Bot.Common.Models.User;
 using Clinic.Bot.Data;
 using Microsoft.Bot.Builder;
@@ -30,14 +29,6 @@ namespace Clinic.Bot
             _dataBaseService = dataBaseService;
         }
 
-        // PARA MOSTRAR MENSAJE DE BIENVENIDA EN EL CANAL WEB CHAT
-        //protected override async Task OnConversationUpdateActivityAsync(ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
-        //{
-        //    if(string.IsNullOrEmpty(turnContext.Activity.From.Name))
-        //        await turnContext.SendActivityAsync(MessageFactory.Text($"Bienvenido"), cancellationToken);
-            
-        //    await base.OnConversationUpdateActivityAsync(turnContext, cancellationToken);
-        //}
         protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
         {
             foreach (var member in membersAdded)
@@ -65,18 +56,6 @@ namespace Clinic.Bot
             }
         }
 
-        //private async Task SaveUserConversation(ITurnContext<IMessageActivity> turnContext)
-        //{
-        //    // AQUÍ SE CONSTRUYE EL MODELO
-        //    var conversationModel = new ConversationModel();
-        //    conversationModel.id = Guid.NewGuid().ToString();
-        //    conversationModel.idUser = turnContext.Activity.From.Id;
-        //    conversationModel.registerDate = DateTime.Now.Date;
-        //    conversationModel.message = turnContext.Activity.Text;
-            
-        //    await _dataBaseService.Conversation.AddAsync(conversationModel); // AQUÍ SE GUARDA EN LA BD
-        //    await _dataBaseService.SaveAsync(); // AQUÍ SE CONFIRMA LA OPERACIÓN
-        //}
 
         public override async Task OnTurnAsync(ITurnContext turnContext, CancellationToken cancellationToken = default)
         {
@@ -88,7 +67,6 @@ namespace Clinic.Bot
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
             await SaveUser(turnContext);
-            //await SaveUserConversation(turnContext);
             await _dialog.RunAsync(
               turnContext,
               _conversationState.CreateProperty<DialogState>(nameof(DialogState)),
