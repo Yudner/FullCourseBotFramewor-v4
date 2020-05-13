@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="clinic-bot-webapp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Drive\\Mis\ Cursos\\Bot\ Framework\ v4\\Prueba\ Clínica\\27\.\ Anomalías\ de\ rendimiento\ con\ Application\ Insights\\Clinic\\Clinic\.Bot\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

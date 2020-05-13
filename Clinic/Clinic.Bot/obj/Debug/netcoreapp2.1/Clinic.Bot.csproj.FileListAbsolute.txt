@@ -1,0 +1,80 @@
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.deps.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.dev.json
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.dll
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.csprojAssemblyReference.cache
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cache
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cs
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfoInputs.cache
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfo.cs
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.pdb
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.dll
+C:\Users\YUDNER\Desktop\Prueba Clínica\4. Configurar el estado del Bot\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\6. integrar Bot Framework con LUIS Cognitive Service\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\7. Desarrollo de intenciones generales\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\bin\Debug\netcoreapp2.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\8. Desarrollo de un menú de opciones\Clinic\Clinic.Bot\obj\Debug\netcoreapp2.1\Clinic.Bot.pdb

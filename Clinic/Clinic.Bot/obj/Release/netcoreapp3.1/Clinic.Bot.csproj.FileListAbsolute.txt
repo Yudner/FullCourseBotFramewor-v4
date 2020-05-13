@@ -1,0 +1,285 @@
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.exe
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.Manifest.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.xml
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csproj.CopyComplete
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\9. Guardar Usuarios en una BD\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.exe
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.Manifest.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.xml
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csproj.CopyComplete
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\21. Configuración para el despliegue en diferentes canales\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.exe
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\appsettings.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.deps.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.runtimeconfig.dev.json
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Clinic.Bot.pdb
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csprojAssemblyReference.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.Manifest.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\staticwebassets\Clinic.Bot.StaticWebAssets.xml
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.MvcApplicationPartsAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfoInputs.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.AssemblyInfo.cs
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.RazorTargetAssemblyInfo.cache
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.csproj.CopyComplete
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.dll
+D:\Drive\Mis Cursos\Bot Framework v4\Prueba Clínica\27. Anomalías de rendimiento con Application Insights\Clinic\Clinic.Bot\obj\Release\netcoreapp3.1\Clinic.Bot.pdb
